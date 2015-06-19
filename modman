@@ -1,0 +1,7 @@
+app/code/local/Wage/Responsivebannerslider/	app/code/local/Wage/Responsivebannerslider/
+app/etc/modules/Wage_Responsivebannerslider.xml	app/etc/modules/Wage_Responsivebannerslider.xml
+app/design/adminhtml/default/default/layout/responsivebannerslider.xml	app/design/adminhtml/default/default/layout/responsivebannerslider.xml
+app/design/frontend/rwd/wage4.0/layout/responsivebannerslider.xml	app/design/frontend/rwd/wage4.0/layout/responsivebannerslider.xml
+app/design/frontend/rwd/wage4.0/template/responsivebannerslider/	app/design/frontend/rwd/wage4.0/template/responsivebannerslider/
+app/etc/modules/Wage_Responsivebannerslider.xml	app/etc/modules/Wage_Responsivebannerslider.xml
+skin/frontend/rwd/wage4.0/responsiveslider/	skin/frontend/rwd/wage4.0/responsiveslider/
