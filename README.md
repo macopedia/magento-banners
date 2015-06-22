@@ -3,7 +3,7 @@ Please follow these instructions to proceed with the installation of your extens
 ### #1 Installation:
 
 1. Copy all files into your magento directory and turn Magento cache off. 
-1. In case you have different then "default" default folder - copy extensions folders to your default theme 
+1. Please note the this install assumes you are using the RWD theme. Please note the actual location of your module.
 1. Navigate to System > Configuration > Wagento > Banner Slider. 
 1. Configure Banner settings according to your needs.
 ### #2 System Configuration
