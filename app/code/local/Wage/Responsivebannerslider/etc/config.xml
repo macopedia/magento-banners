@@ -35,28 +35,6 @@
         </routers>
     </admin>
     <adminhtml>
-		<menu>
-			<bannerslider module="responsivebannerslider">
-				<title>Banner Slider</title>
-				<sort_order>71</sort_order>               
-                <action>responsivebannerslider/adminhtml_responsivebannerslider</action>
-			</bannerslider>
-		</menu>
-		<acl>
-			<resources>
-				<all>
-					<title>Allow Everything</title>
-				</all>
-				<admin>
-					<children>
-						<Wage_Responsivebannerslider>
-							<title>Responsivebannerslider Module</title>
-							<sort_order>10</sort_order>
-						</Wage_Responsivebannerslider>
-					</children>
-				</admin>
-			</resources>
-		</acl>
 		<layout>
 			<updates>
 				<responsivebannerslider>
