@@ -47,16 +47,16 @@
         <models>
             <responsivebannerslider>
                 <class>Wage_Responsivebannerslider_Model</class>
-                <resourceModel>responsivebannerslider_mysql4</resourceModel>
+                <resourceModel>responsivebannerslider_resource</resourceModel>
             </responsivebannerslider>
-            <responsivebannerslider_mysql4>
-                <class>Wage_Responsivebannerslider_Model_Mysql4</class>
+            <responsivebannerslider_resource>
+                <class>Wage_Responsivebannerslider_Model_Resource</class>
                 <entities>
                     <responsivebannerslider>
                         <table>responsivebannerslider</table>
                     </responsivebannerslider>
                 </entities>
-            </responsivebannerslider_mysql4>
+            </responsivebannerslider_resource>
         </models>
         <resources>
             <responsivebannerslider_setup>
