@@ -16,6 +16,11 @@ class Wage_Responsivebannerslider_Block_Adminhtml_Responsivebannerslider_Edit_Ta
             "required" => true,
             "name" => "title",
             ));
+
+            $fieldset->addField("sub_title", "text", array(
+                "label" => Mage::helper("responsivebannerslider")->__("Subtitle"),
+                "name" => "sub_title",
+            ));
                   
             $fieldset->addField('image', 'image', array(
             'label' => Mage::helper('responsivebannerslider')->__('Images'),
